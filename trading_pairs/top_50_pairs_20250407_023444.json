@@ -1,0 +1,352 @@
+[
+  {
+    "symbol": "ETHUSDT",
+    "lastPrice": 1638.91,
+    "volume": 501187.66,
+    "marketCap": 821401468.83,
+    "maxLeverage": 125
+  },
+  {
+    "symbol": "SOLUSDT",
+    "lastPrice": 108.87,
+    "volume": 2995085.57,
+    "marketCap": 326074966.22,
+    "maxLeverage": 100
+  },
+  {
+    "symbol": "XRPUSDT",
+    "lastPrice": 2.0047,
+    "volume": 106774713.0,
+    "marketCap": 214051267.15,
+    "maxLeverage": 75
+  },
+  {
+    "symbol": "BNBUSDT",
+    "lastPrice": 557.18,
+    "volume": 217854.66,
+    "marketCap": 121384262.24,
+    "maxLeverage": 75
+  },
+  {
+    "symbol": "GUNUSDT",
+    "lastPrice": 0.054,
+    "volume": 2222190510.0,
+    "marketCap": 120042731.35,
+    "maxLeverage": 75
+  },
+  {
+    "symbol": "DOGEUSDT",
+    "lastPrice": 0.1543,
+    "volume": 584900516.0,
+    "marketCap": 90255998.62,
+    "maxLeverage": 75
+  },
+  {
+    "symbol": "SUIUSDT",
+    "lastPrice": 1.9769,
+    "volume": 41196499.2,
+    "marketCap": 81441359.27,
+    "maxLeverage": 75
+  },
+  {
+    "symbol": "ADAUSDT",
+    "lastPrice": 0.5946,
+    "volume": 90479920.0,
+    "marketCap": 53799360.43,
+    "maxLeverage": 75
+  },
+  {
+    "symbol": "TRXUSDT",
+    "lastPrice": 0.2336,
+    "volume": 211952530.9,
+    "marketCap": 49512111.22,
+    "maxLeverage": 75
+  },
+  {
+    "symbol": "FUNUSDT",
+    "lastPrice": 0.0078,
+    "volume": 5622910422.0,
+    "marketCap": 44111732.26,
+    "maxLeverage": 25
+  },
+  {
+    "symbol": "TRUMPUSDT",
+    "lastPrice": 8.42,
+    "volume": 5086149.82,
+    "marketCap": 42825381.44,
+    "maxLeverage": 25
+  },
+  {
+    "symbol": "LTCUSDT",
+    "lastPrice": 74.08,
+    "volume": 524025.37,
+    "marketCap": 38819799.48,
+    "maxLeverage": 75
+  },
+  {
+    "symbol": "EOSUSDT",
+    "lastPrice": 0.7491,
+    "volume": 51310453.0,
+    "marketCap": 38436660.34,
+    "maxLeverage": 75
+  },
+  {
+    "symbol": "AUCTIONUSDT",
+    "lastPrice": 14.99,
+    "volume": 2482537.08,
+    "marketCap": 37213230.83,
+    "maxLeverage": 10
+  },
+  {
+    "symbol": "AVAXUSDT",
+    "lastPrice": 16.36,
+    "volume": 2269545.59,
+    "marketCap": 37129765.85,
+    "maxLeverage": 75
+  },
+  {
+    "symbol": "ENAUSDT",
+    "lastPrice": 0.2835,
+    "volume": 115400080.14,
+    "marketCap": 32715922.72,
+    "maxLeverage": 75
+  },
+  {
+    "symbol": "LINKUSDT",
+    "lastPrice": 11.64,
+    "volume": 2506426.09,
+    "marketCap": 29174799.69,
+    "maxLeverage": 75
+  },
+  {
+    "symbol": "LAYERUSDT",
+    "lastPrice": 1.5316,
+    "volume": 18221111.61,
+    "marketCap": 27907454.54,
+    "maxLeverage": 25
+  },
+  {
+    "symbol": "RAREUSDT",
+    "lastPrice": 0.0708,
+    "volume": 379686967.8,
+    "marketCap": 26881837.32,
+    "maxLeverage": 25
+  },
+  {
+    "symbol": "SUSDT",
+    "lastPrice": 0.4353,
+    "volume": 58454180.3,
+    "marketCap": 25445104.68,
+    "maxLeverage": 75
+  },
+  {
+    "symbol": "CRVUSDT",
+    "lastPrice": 0.4381,
+    "volume": 46207539.6,
+    "marketCap": 20243523.1,
+    "maxLeverage": 75
+  },
+  {
+    "symbol": "ZROUSDT",
+    "lastPrice": 2.574,
+    "volume": 7240139.53,
+    "marketCap": 18636119.15,
+    "maxLeverage": 20
+  },
+  {
+    "symbol": "HBARUSDT",
+    "lastPrice": 0.1442,
+    "volume": 128482111.0,
+    "marketCap": 18520696.3,
+    "maxLeverage": 75
+  },
+  {
+    "symbol": "ARKUSDT",
+    "lastPrice": 0.3243,
+    "volume": 56834436.0,
+    "marketCap": 18431407.59,
+    "maxLeverage": 10
+  },
+  {
+    "symbol": "ACTUSDT",
+    "lastPrice": 0.0509,
+    "volume": 328789098.5,
+    "marketCap": 16735365.11,
+    "maxLeverage": 10
+  },
+  {
+    "symbol": "BERAUSDT",
+    "lastPrice": 5.057,
+    "volume": 3206246.73,
+    "marketCap": 16213989.71,
+    "maxLeverage": 75
+  },
+  {
+    "symbol": "APTUSDT",
+    "lastPrice": 4.414,
+    "volume": 3673288.93,
+    "marketCap": 16213897.34,
+    "maxLeverage": 75
+  },
+  {
+    "symbol": "TONUSDT",
+    "lastPrice": 3.167,
+    "volume": 5079811.05,
+    "marketCap": 16087761.6,
+    "maxLeverage": 75
+  },
+  {
+    "symbol": "AAVEUSDT",
+    "lastPrice": 135.71,
+    "volume": 117487.33,
+    "marketCap": 15944205.83,
+    "maxLeverage": 75
+  },
+  {
+    "symbol": "WIFUSDT",
+    "lastPrice": 0.341,
+    "volume": 46446280.44,
+    "marketCap": 15838181.63,
+    "maxLeverage": 25
+  },
+  {
+    "symbol": "PARTIUSDT",
+    "lastPrice": 0.1624,
+    "volume": 97250748.7,
+    "marketCap": 15793521.59,
+    "maxLeverage": 75
+  },
+  {
+    "symbol": "1000SATSUSDT",
+    "lastPrice": 0.0,
+    "volume": 341930391824.0,
+    "marketCap": 15010744.2,
+    "maxLeverage": 10
+  },
+  {
+    "symbol": "NEOUSDT",
+    "lastPrice": 4.82,
+    "volume": 2922601.53,
+    "marketCap": 14086939.37,
+    "maxLeverage": 20
+  },
+  {
+    "symbol": "PENDLEUSDT",
+    "lastPrice": 2.692,
+    "volume": 5215740.8,
+    "marketCap": 14040774.23,
+    "maxLeverage": 75
+  },
+  {
+    "symbol": "WLDUSDT",
+    "lastPrice": 0.65,
+    "volume": 21560817.5,
+    "marketCap": 14014531.38,
+    "maxLeverage": 20
+  },
+  {
+    "symbol": "TAOUSDT",
+    "lastPrice": 189.7,
+    "volume": 72831.52,
+    "marketCap": 13816139.99,
+    "maxLeverage": 75
+  },
+  {
+    "symbol": "NEARUSDT",
+    "lastPrice": 2.195,
+    "volume": 6269370.6,
+    "marketCap": 13761268.47,
+    "maxLeverage": 75
+  },
+  {
+    "symbol": "XLMUSDT",
+    "lastPrice": 0.2437,
+    "volume": 56020752.0,
+    "marketCap": 13652257.26,
+    "maxLeverage": 75
+  },
+  {
+    "symbol": "UNIUSDT",
+    "lastPrice": 5.255,
+    "volume": 2403017.86,
+    "marketCap": 12627858.85,
+    "maxLeverage": 75
+  },
+  {
+    "symbol": "DOTUSDT",
+    "lastPrice": 3.735,
+    "volume": 3301204.59,
+    "marketCap": 12329999.14,
+    "maxLeverage": 75
+  },
+  {
+    "symbol": "FILUSDT",
+    "lastPrice": 2.469,
+    "volume": 4873001.78,
+    "marketCap": 12031441.39,
+    "maxLeverage": 75
+  },
+  {
+    "symbol": "PNUTUSDT",
+    "lastPrice": 0.1299,
+    "volume": 92599355.5,
+    "marketCap": 12028656.28,
+    "maxLeverage": 20
+  },
+  {
+    "symbol": "MUBARAKUSDT",
+    "lastPrice": 0.0402,
+    "volume": 296253165.7,
+    "marketCap": 11909377.26,
+    "maxLeverage": 25
+  },
+  {
+    "symbol": "ARBUSDT",
+    "lastPrice": 0.2736,
+    "volume": 43245539.7,
+    "marketCap": 11831979.66,
+    "maxLeverage": 25
+  },
+  {
+    "symbol": "OPUSDT",
+    "lastPrice": 0.61,
+    "volume": 19162433.19,
+    "marketCap": 11689084.25,
+    "maxLeverage": 75
+  },
+  {
+    "symbol": "BMTUSDT",
+    "lastPrice": 0.0871,
+    "volume": 132811930.4,
+    "marketCap": 11567919.14,
+    "maxLeverage": 25
+  },
+  {
+    "symbol": "NILUSDT",
+    "lastPrice": 0.391,
+    "volume": 28742851.0,
+    "marketCap": 11238454.74,
+    "maxLeverage": 75
+  },
+  {
+    "symbol": "RENDERUSDT",
+    "lastPrice": 2.806,
+    "volume": 3889973.87,
+    "marketCap": 10915266.68,
+    "maxLeverage": 75
+  },
+  {
+    "symbol": "CAKEUSDT",
+    "lastPrice": 1.615,
+    "volume": 6712093.19,
+    "marketCap": 10840030.5,
+    "maxLeverage": 75
+  },
+  {
+    "symbol": "ATOMUSDT",
+    "lastPrice": 4.603,
+    "volume": 2338262.39,
+    "marketCap": 10763021.78,
+    "maxLeverage": 75
+  }
+]
