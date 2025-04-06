@@ -65,29 +65,22 @@ TRADING_CONFIG = {
 }
 ```
 
-### 3. 准备交易对列表
+### 3. 获取交易对列表
 
-1. 创建`trading_pairs`目录
-2. 在该目录下创建`latest_pairs.json`文件，格式如下：
-
-```json
-[
-  {
-    "symbol": "BTCUSDT",
-    "lastPrice": "50000.00"
-  },
-  {
-    "symbol": "ETHUSDT",
-    "lastPrice": "3000.00"
-  }
-]
-```
-
-您可以使用`get_trading_pairs.py`脚本自动获取最新的交易对列表：
+运行以下脚本自动获取币安合约市值前 50 的加密货币（不含 BTC 和 USDC）：
 
 ```bash
-python get_trading_pairs.py
+python binance_top_50.py
 ```
+
+该脚本会：
+
+1. 自动创建`trading_pairs`目录
+2. 获取市值前 50 的加密货币交易对
+3. 将交易对信息保存到`trading_pairs/latest_pairs.json`文件
+4. 同时保存一份带时间戳的历史记录
+
+**注意**：如果您没有配置 API 密钥，脚本将使用默认杠杆倍数 20 倍。要获取准确的杠杆倍数，请在`.env`文件中配置 API 密钥。
 
 ## 使用方法
 
